@@ -7,3 +7,4 @@ Data was taken from Kaggle (https://www.kaggle.com/datasets/mattop/leading-cause
 I made an analysis about how many deaths were in every state of country, how many deaths are associated depending on causes and total quantity of them with the graph that shows age-adjusted death rate. Everything can be seen using a slicer that shows necessary information according to year.
 
 Thanks for attention!
+
